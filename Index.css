@@ -1,4 +1,13 @@
 table, td {
   border: 2px solid black;
   text-align: center;
+  font-family: 'Times New Roman', Times, serif;
   }
+
+table, th {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  background-color: aquamarine;
+}
